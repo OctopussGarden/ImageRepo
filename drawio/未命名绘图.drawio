@@ -1,1 +1,111 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T04:46:36.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="FMlNuSZhSrFJXqvvACPB" version="21.0.8" type="github"><diagram name="第 1 页" id="tH8X5Ct7GdnYIzQljAsK">3Zhdb5swFIZ/jS878enYl5CQrtK2TurFuks3eMAKGDmmgf762WBCGDRJtbZMkSLF57WN7dfPsQzAXmbVNSdF/JWFNAWWEVbAXgHLMg3oyD+l1K3ium4rRDwJdaNeuEueaddTq2US0u2goWAsFUkxFDcsz+lGDDTCOdsNm/1i6XDUgkR0JNxtSDpWfyShiFsVWYte/0yTKO5GNiFuazLSNdaP2MYkZLtWahZnB8BecsZEW8qqJU2VeZ0vrQPrF2r3E+M0F+d0gPzq8ebZiK/jaOmXt99u3Gp3ZbdPeSJpqResJyvqzgEaSkN0yLiIWcRykga96nNW5iFVwxgy6tt8YayQoinF31SIWu8uKQWTUiyyVNe2Y6qBXlxbZyIr+YYeWVDHCOERFUfaWfsdkOhSllHBa9mP05SI5Gk4D6IZivbteptlQTv9CtfNseuBC/wlQIYqeAuA/NE+9C4ry3ZxIuhdQRozdjL3phx9olzQ6rinYw90B9vRKagz1+ziXZ8HpmbOiA9yABrvZJt7abBaZ8LqzAmrNQErAt4a+L6CFa0BhiCAAK8ANpqC/OEGaBPgQCkSa29xBGhjFqAte26gF5cGtHMm0HBOoJ1poAPgmSBYqAJeNGQjgL2GYw94UFXhNfAk2RhgBHx3tFcnEB5u1DsAbZtzA40vDWh4JtBoTqDhBNDyDPaB7+jz2Dc0x9hpyPZU7UBZK6b/O6Dx3ECbF3dBRmcSbc56Q0aTSMsLBWoPa3lM283NYqUO5cBRl2fPUWe0ZNuH+tKBzNFmybewQhULzjZ0uz198Xggm8eo2cDbUqRJTj8KfgfNDj+cg3VaJeJed1fln6r8ydXRqjqoWtVdkMv13h8GB71U2HdronqwbW/z4vlRl/mmq8c5qQ8aFCzJxfbgyd+V0MNl4SFc0PjrY8GJ9h2cPU7tDHq49kv5B94mXjUsaZcTAguSTCVmKp2Vp4C9bitGfPKYZQ/lGWn99ulruwPHXDiRvvZE+qLXp68M++9Grfv91zc7+AM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-21T05:12:34.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="K4ghaSixC1NaxOXyLILz" version="21.0.8" type="github">
+  <diagram name="第 1 页" id="tH8X5Ct7GdnYIzQljAsK">
+    <mxGraphModel dx="1520" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6r-kIz0hGhgCBuONI5xw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" source="6r-kIz0hGhgCBuONI5xw-1" target="6r-kIz0hGhgCBuONI5xw-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6r-kIz0hGhgCBuONI5xw-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="340" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6r-kIz0hGhgCBuONI5xw-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" source="6r-kIz0hGhgCBuONI5xw-2" target="6r-kIz0hGhgCBuONI5xw-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6r-kIz0hGhgCBuONI5xw-2" value="读取材料属性" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="340" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6r-kIz0hGhgCBuONI5xw-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" source="6r-kIz0hGhgCBuONI5xw-4" target="6r-kIz0hGhgCBuONI5xw-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6r-kIz0hGhgCBuONI5xw-4" value="计算刚度矩阵" style="whiteSpace=wrap;html=1;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="340" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6r-kIz0hGhgCBuONI5xw-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" source="6r-kIz0hGhgCBuONI5xw-6" target="6r-kIz0hGhgCBuONI5xw-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6r-kIz0hGhgCBuONI5xw-6" value="更新应力应变" style="whiteSpace=wrap;html=1;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="340" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6r-kIz0hGhgCBuONI5xw-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6r-kIz0hGhgCBuONI5xw-8" target="6r-kIz0hGhgCBuONI5xw-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="510" />
+              <mxPoint x="290" y="290" />
+              <mxPoint x="195" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6r-kIz0hGhgCBuONI5xw-8" value="求解损伤状态" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="340" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dNLBxnli_luOGMNEjt3j-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6r-kIz0hGhgCBuONI5xw-12" target="dNLBxnli_luOGMNEjt3j-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNLBxnli_luOGMNEjt3j-12" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="dNLBxnli_luOGMNEjt3j-2">
+          <mxGeometry x="-0.5148" relative="1" as="geometry">
+            <mxPoint y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNLBxnli_luOGMNEjt3j-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="6r-kIz0hGhgCBuONI5xw-12" target="dNLBxnli_luOGMNEjt3j-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="350" />
+              <mxPoint x="90" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNLBxnli_luOGMNEjt3j-11" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="dNLBxnli_luOGMNEjt3j-10">
+          <mxGeometry x="-0.1822" relative="1" as="geometry">
+            <mxPoint y="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6r-kIz0hGhgCBuONI5xw-12" value="$$d&amp;lt;1?$$" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="130" y="310" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dNLBxnli_luOGMNEjt3j-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="dNLBxnli_luOGMNEjt3j-1" target="dNLBxnli_luOGMNEjt3j-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNLBxnli_luOGMNEjt3j-1" value="计算含损伤刚度矩阵" style="whiteSpace=wrap;html=1;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="120" y="430" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dNLBxnli_luOGMNEjt3j-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dNLBxnli_luOGMNEjt3j-3" target="dNLBxnli_luOGMNEjt3j-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNLBxnli_luOGMNEjt3j-3" value="更新应力状态" style="whiteSpace=wrap;html=1;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="135" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dNLBxnli_luOGMNEjt3j-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="dNLBxnli_luOGMNEjt3j-5" target="dNLBxnli_luOGMNEjt3j-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNLBxnli_luOGMNEjt3j-15" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="dNLBxnli_luOGMNEjt3j-8">
+          <mxGeometry x="0.1802" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNLBxnli_luOGMNEjt3j-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dNLBxnli_luOGMNEjt3j-5" target="6r-kIz0hGhgCBuONI5xw-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="660" as="sourcePoint" />
+            <mxPoint x="320" y="259.97" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="660" />
+              <mxPoint x="50" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNLBxnli_luOGMNEjt3j-14" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="dNLBxnli_luOGMNEjt3j-13">
+          <mxGeometry x="0.0501" relative="1" as="geometry">
+            <mxPoint y="116" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNLBxnli_luOGMNEjt3j-5" value="计算是否结束？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="125" y="620" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dNLBxnli_luOGMNEjt3j-7" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="340" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
